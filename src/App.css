@@ -59,8 +59,8 @@
   margin: 10px;
 }
 .image-container {
-  width: 700px; /* Adjust the width as needed */
-  height: 700px; /* Adjust the height as needed */
+  width: 500px; /* Adjust the width as needed */
+  height: 500px; /* Adjust the height as needed */
   overflow: hidden;
   display: flex;
   justify-content: center;
