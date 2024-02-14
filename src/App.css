@@ -80,3 +80,13 @@
   font-family: "Gaegu";
   font-weight: bold;
 }
+@media (max-width: 600px) {
+  .sidebar {
+    display: none;
+  }
+}
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
