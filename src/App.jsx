@@ -64,7 +64,7 @@ function App() {
           <div className="image-container">
             <img src={Final} alt="bear-Kissing" />
           </div>
-          <div className="text">Yayyy !!!</div>
+          <div className="text">B, My Valentine!</div>
         </>
       ) : (
         <>
