@@ -11,7 +11,7 @@ import IMG_8 from "./images/IMG_8.JPG";
 import IMG_9 from "./images/IMG_9.jpeg";
 import IMG_10 from "./images/IMG_10.JPG";
 import IMG_11 from "./images/IMG_11.JPG";
-import Final from "./images/Final.jpeg";
+import Final from "./images/myvalentine.gif";
 const images = [
   IMG_1,
   IMG_2,
