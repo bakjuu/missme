@@ -34,7 +34,7 @@ function App() {
   const [noCount, setNoCount] = useState(0);
   const [yesPressed, setYesPressed] = useState(false);
   const yesButtonSize = noCount * 10 + 16;
-  const randomImage = images[Math.floor(Math.random() * images.length)];
+  // const randomImage = images[Math.floor(Math.random() * images.length)];
 
   function handleYesClick() {
     setYesPressed(true);
